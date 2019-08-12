@@ -5,7 +5,7 @@ image: /img/products-full-width.jpg
 heading: Great coffee with a conscience
 subheading: Developer and person
 mainpitch:
-  title: Why Kaldi
+  title: This is a test
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
