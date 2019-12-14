@@ -5,7 +5,7 @@ image: /img/products-full-width.jpg
 heading: George Ramirez
 subheading: Project Manager & Developer
 mainpitch:
-  title: This is a test
+  title: Alex testing
   description: |
     I'm just a guy, who knows a guy, playing another guy
 description: >-
