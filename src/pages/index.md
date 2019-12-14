@@ -2,15 +2,12 @@
 templateKey: index-page
 title: George Ramirez
 image: /img/products-full-width.jpg
-heading: Great coffee with a conscience
-subheading: Developer and person
+heading: George Ramirez
+subheading: Project Manager & Developer
 mainpitch:
   title: This is a test
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  description: |
+    I'm just a guy, who knows a guy, playing another guy
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
